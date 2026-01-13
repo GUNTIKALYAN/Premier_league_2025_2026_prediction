@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+env/
+venv/
+.venv/
+pl/
+
+# Jupyter
+.ipynb_checkpoints/
+premier_league.ipynb
+
+# Git
+.git/
+.gitignore
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
